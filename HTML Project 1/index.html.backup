@@ -1,0 +1,57 @@
+<!doctype HTML>
+<html>
+<head>
+  <link rel="stylesheet" href="styles.css">
+<title>Linus P. Go -Software Developer-</title>
+</head>
+<body>
+<div>
+<table style="width:75%" table id = "t01">
+<tr>
+    <td><a href="index.html"><img src="title.png" alt="Title" style="width:200px;height:50px;"></a></td>
+    <td><a href="references.html"><img src="references_quals.png" alt="References and Qualifications" style="width:200px;height:50px;"></a></td>
+    <td><a href="interests.html"><img src="interests.png" alt="Interests" style="width:200px;height:50px;"></a></td>
+	</tr>
+  <tr>
+</table>
+  </tr>
+
+<h1><b><em>Linus Go</em></b></h1>
+<h2>Personal Statement</h2>
+<h3>About me</h3>
+
+<img src="300345571.jpg" align="middle" alt="Photo of Linus" style="width:320px;height:320px;" img id = "i1">
+
+<h2>Contact Details</h2>
+<table id = "t02">
+  <tr>
+    <td>Email:</td>
+    <td>Phone:</td>
+    <td>Git:</td>
+	<td>LinkedIn</td>
+  </tr>
+  <tr>
+    <td><a href="mailto:golinu@myvuw.ac.nzs"><img src="Email-icon.png" alt="Email link" style="width:50px;height:50px;"></td>
+    <td><p><em>04 111 2222</em></p></td>
+    <td><a href="http://www.github.com/veryasian"><img src="Github-icon.png" alt="Github Link" style="width:50px;height:50px;"></td>
+	<td><a href="https://nz.linkedin.com/in/linus-go-3a602611b"><img src="LinkedInSquareLogo.png" alt="LinkedIn Link" style="width:50px;height:50px;"></td>
+  </tr>
+</table>
+
+<p>
+I am a 22 year old Bachelor of Engineering Graduate that has recently graduated from Victoria University of Wellington.
+In my spare time, I enjoy driving around, having road trips in my Tesla Model S, travelling around the world, and going road biking.
+I founded my own Software Company, LinusTech, that specializes in Android/iOS development, and we create applications on demand. 
+I currently have the following expertise in:
+<ul>
+  <li>Java (2-3 years)</li>
+  <li>Android (2 years)</li>
+  <li>C Programming (2 years)</li>
+  <li>HTML + CSS (1 year)</li>
+  <li>Presentation skills + Public Speaking (3 years)</li>
+</ul>
+</p>
+</div>
+</body>
+
+</html>

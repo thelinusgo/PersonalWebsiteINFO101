@@ -1,0 +1,91 @@
+/*CSS Style Sheet*/
+body {
+    background-color: black;
+	background-image: url("cityart.jpg");
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+div{
+	background-color: rgba(0, 1, 32, 0.8);
+}
+
+p{
+	font-size: 12;
+}
+
+h1 {
+    color: white;
+   	font-family: Arial ;
+	text-align: center;
+	text-shadow: 3px 3px #0000aa;
+
+}
+
+h2{
+	color: white;
+	font-family: Arial ;
+    text-align: center;
+} 
+
+h2#lol{
+	color: white;
+	font-family: Arial ;
+    text-align: center;
+} 
+
+h3#lol{
+	color: white;
+	font-family: Arial ;
+    text-align: center;
+} 
+h3{
+    color: white;
+   	font-family: Arial ;
+    text-align: center;
+}
+
+p{
+	color: white;
+	font-family: Arial ;
+}
+
+td{
+	color: white;
+	font-family: Arial ;
+	background-color: dark-gray;
+}
+
+li{
+	color: white;	
+	font-family: Arial ;
+}
+
+table#t01 {
+    width: 100%; 
+	text-align: center;
+	padding-left: 11%;
+	padding-right: 0px;
+}
+
+table#t02 {
+    width: 100%; 
+	color: gold;
+	color: white;
+	text-align: center;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+ul#list2{
+	text-indent: 1%;
+}
+
+img#i1{
+	border-radius: 300px;
+}
+img{
+	border-radius: 5%;
+	border-size: 10px;
+	border-color: gold;
+}
